@@ -1,4 +1,3 @@
-# Reviewer 3 — Vector competence multiplier comparison
 # DENV VC = 0.354; CHIK VC = 0.625
 # Compare Index P with and without VC
 
